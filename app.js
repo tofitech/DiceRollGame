@@ -20,7 +20,7 @@ var scores, roundScore, activePlayer, gamePlaying;
 //document.querySelector('#current-' + activePlayer).innerHTML = '<em>' + dice + '</em>';
 
 //var x = document.querySelector('#current-0').textContent;
-alert('Make Sure the UPPER DICE will not roll 1 and LOWER DICE  will not roll 6, Because you will lose your turn. so LOWER DICE can roll 1 and UPPER DICE can roll 6. To check the Dice Roll for Chrome ctrl+shift+i & for Firefox browser ctrl+shift+k');
+alert('GAME PLAY: Make sure the UPPER DICE will not roll 1 and LOWER DICE  will not roll 6, Because you will lose your turn. LOWER DICE can roll 1 and UPPER DICE can roll 6. To check the Dice Roll for Chrome ctrl+shift+i & for Firefox browser ctrl+shift+k');
 alert('For Mobile Devices, Best played Landscape Mode!');
 document.querySelector('.dice').style.display = 'none';
 document.querySelector('.dices').style.display = 'none';
